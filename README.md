@@ -12,3 +12,17 @@
 
 ## ⚙ 시스템 구성도
 ![시스템구성도](https://github.com/Lee-SeulGi/INHACommunity/assets/89624548/d27db1b3-bbbf-48dd-b246-88468b15c6ed)
+
+## 📷 실행 사진
+![서버프로그램](https://github.com/Lee-SeulGi/DiningRoomKiosk/assets/89624548/22577aa6-b6da-4d6f-9b86-1dab7a4ca601)
+<br>
+📌 [서버 프로그램] : 서버를 열어줍니다.
+
+![메뉴주문프로그램](https://github.com/Lee-SeulGi/DiningRoomKiosk/assets/89624548/114c5f0a-e491-4ed2-a51f-658be7b43719)
+📌 [메뉴 주문 프로그램] : 주문하고자 하는 메뉴를 클릭하여 결제를 진행합니다. 현금결제창이 오픈되며 금액을 클릭한 후, 결제 버튼을 누르면 티켓이 발행됩니다.
+
+![주방관리프로그램](https://github.com/Lee-SeulGi/DiningRoomKiosk/assets/89624548/e9ea427d-a4ed-43cf-a8ab-07c5626be7ed)
+📌 [주방 관리 프로그램] : 손님이 결제가 완료된 후 주방 관리 프로그램에서는 실시간으로 남은 수량을 확인할 수 있으며, 수량 조절과 판매 취소도 가능합니다.
+
+![메뉴관리프로그램](https://github.com/Lee-SeulGi/DiningRoomKiosk/assets/89624548/5d250763-1dff-46a3-8fc3-274a75c9e5ba)
+📌 [메뉴 관리 프로그램] : 주방 관리 프로그램과 동일하게 실시간으로 남은 수량을 확인할 수 있으며, 수량 조절과 판매 취소도 가능합니다. 추가적으로 지금까지 판매된 판매 수익을 확인할 수 있습니다.
